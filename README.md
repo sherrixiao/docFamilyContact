@@ -9,3 +9,5 @@ npm run serve
 此demo作为家庭医生系统demo，后期需自己完善
 
 我有时间再更新
+
+demo架构采用vue2.0x+element ui+bootstrapvue(4.0)
