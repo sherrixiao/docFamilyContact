@@ -1,0 +1,20 @@
+{
+  "name": "familydoctorcontractsystem",
+  "version": "1.0.0",
+  "description": "for Family doctor contract system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sherri xiao",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli": "^4.5.14",
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1",
+    "vue": "^2.6.14",
+    "vue-cli": "^2.9.6",
+    "webpack": "^5.60.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
